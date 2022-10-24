@@ -27,7 +27,7 @@ public class FirstClass {
                 System.out.println ("Valūta: " + valuta + "(Eur)");
 
 System.out.println("Itālijas nacionālā valoda ir " +valoda + " un vietējie izvēlas citās \n valodās nerunāt. Viens kruasāns maksā 1 " +valuta+
-         " Viens no populārākajiem galamērķiem ir "+ galavaspilseta+".");
+         ". Viens no populārākajiem galamērķiem ir "+ galavaspilseta+".");
 
 System.out.print("Aprēķinu piemēri:" );
 
@@ -40,6 +40,10 @@ int rezultats1= x-y;
 System.out.println(x-y);
 int rezultats2= x/y;
 System.out.println(x/y);
+
+
+
+
 
 
 
